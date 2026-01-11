@@ -1,12 +1,12 @@
-#Portuguese Bank Marketing Campaign Analysis
+# Portuguese Bank Marketing Campaign Analysis
 
 Duration: [Insert Date, e.g., Aug 2024 – Dec 2024]
 Project Type: Data Science Capstone / Predictive Modeling
 
-#Overview
+# Overview
 A data analysis and predictive modeling project designed to assist a Portuguese banking institution in improving its direct marketing campaigns. The system analyzes customer demographics and economic indicators to predict term deposit subscriptions and provides actionable strategies to increase conversion rates.
 
-#Key Features
+# Key Features
 
 Predictive Modeling: Built a Random Forest Classifier to predict customer subscription likelihood.
 
@@ -16,7 +16,7 @@ Strategic Insights: Identified key subscriber demographics (e.g., retirees, stud
 
 Imbalance Handling: addressed significant class imbalance (11% success rate) to improve model recall.
 
-#Technologies Used
+# Technologies Used
 
 Python
 
