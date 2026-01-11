@@ -1,6 +1,7 @@
 # Portuguese Bank Marketing Campaign Analysis
 
 **Duration:** [8th Oct 2025 – 28th Oct 2025]
+
 **Project Type:** Data Science Capstone / Predictive Modeling
 
 # Overview
